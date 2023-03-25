@@ -1,0 +1,16 @@
+#contenedor-acerca {
+  padding: 20px;
+
+  background: linear-gradient(
+    90deg,
+    rgba(5, 61, 212, 1) 5%,
+    rgba(59, 221, 231, 1) 82%
+  );
+
+  text-align: center;
+}
+
+#nombre {
+  font-weight: bold;
+  margin-top: 30%;
+}
