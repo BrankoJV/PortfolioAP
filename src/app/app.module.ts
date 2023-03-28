@@ -7,6 +7,7 @@ import { HeaderComponent } from './componentes/header/header.component';
 import { LogoAPComponent } from './componentes/logo-ap/logo-ap.component';
 import { BannerComponent } from './componentes/banner/banner.component';
 import { AcercaDeComponent } from './componentes/acerca-de/acerca-de.component';
+import { ExperienciaComponent } from './componentes/experiencia/experiencia.component';
 
 
 @NgModule({
@@ -16,6 +17,7 @@ import { AcercaDeComponent } from './componentes/acerca-de/acerca-de.component';
     LogoAPComponent,
     BannerComponent,
     AcercaDeComponent,
+    ExperienciaComponent,
     
   ],
   imports: [
