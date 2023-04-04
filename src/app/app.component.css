@@ -1,4 +1,9 @@
 .fondo {
-    background: rgb(52,14,177);
-background: linear-gradient(187deg, rgba(52,14,177,1) 0%, rgba(0,124,254,1) 47%, rgba(69,252,228,1) 100%);
+  background: rgb(52, 14, 177);
+  background: linear-gradient(
+    187deg,
+    rgba(52, 14, 177, 1) 0%,
+    rgba(0, 124, 254, 1) 47%,
+    rgba(90, 32, 141, 0.927608543417367) 100%
+  );
 }
